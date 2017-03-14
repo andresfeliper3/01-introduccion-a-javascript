@@ -23,3 +23,21 @@ function division(a,b)
 {
 
 }
+
+// 5. Realiza una función que salude diciendo "Hola <nombre>"
+function hola(nombre)
+{
+
+}
+
+// 6. Realiza una función retorne el valor de verdad opuesto
+function negacion(booleano)
+{
+
+}
+
+// 7. Realiza una función diga si dos valores son iguales
+function iguales(valor1, valor2)
+{
+
+}
