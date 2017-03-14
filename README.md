@@ -66,3 +66,7 @@ Las funciones son invocadas llamandolas por su nombre
       return "Hola mundo"
     };
   ```
+
+Ahora completa los ejercicios en ejercicios.js.
+
+Puedes verificar que todo esté correcto visitando en tu navegador el archivo index.html
